@@ -17,6 +17,8 @@ I'm a self-taught student based in São Paulo, currently working as a Front-end 
 <br />
 <br />
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 
