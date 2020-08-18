@@ -6,9 +6,9 @@ I'm a self-taught student based in São Paulo, currently working as a Front-end 
 
 <br />
 
-<img align="left" width="435px" height="203px" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marciaibanez&show_icons=true&count_private-true&theme=tokyonight" />
+<img align="left" width="435px" height="203px" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marciaibanez&show_icons=true&count_private=true&theme=tokyonight" />
 
-<img align="right" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciaibanez&layout=compact&show_icons=true&count_private-true&theme=tokyonight" />
+<img align="right" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciaibanez&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
 
 <br />
 <br />
