@@ -8,7 +8,7 @@ I'm a self-taught student based in São Paulo, currently working as a Front-end 
 
 <img align="left" width="435px" height="203px" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marciaibanez&show_icons=true&count_private=true&theme=tokyonight" />
 
-<img align="right" padding="0" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciaibanez&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="right" style="padding-left: 0;" alt="Marcia's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciaibanez&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
 
 <br />
 <br />
