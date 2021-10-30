@@ -6,8 +6,8 @@ I'm a self-taught student based in São Paulo, currently working as a Front-end 
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=marciaibanez&count_private=true&show_icons=true&line_height=40&bg_color=DEG,000,39065e&border_color=ff1ea8&icon_color=4fd7f2&text_color=f97a02&title_color=ff1ea8)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marciaibanez&bg_color=111111&border_color=39065e&icon_color=4fd7f2&text_color=4fd7f2&title_color=ff1ea8)
+![](https://github-readme-stats.vercel.app/api?username=marciaibanez&count_private=true&show_icons=true&line_height=40&bg_color=DEG,000,39065e&border_color=ff1ea8&icon_color=4fd7f2&text_color=f97a02&title_color=ff1ea8&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marciaibanez&count_private=true&bg_color=DEG,000,39065e&border_color=ff1ea8&icon_color=4fd7f2&text_color=4fd7f2&title_color=ff1ea8&include_all_commits=true)
 
 
 ### Languages and Tools:
